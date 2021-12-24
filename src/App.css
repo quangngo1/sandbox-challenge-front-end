@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.list-screen-width {
+  width: 85%;
+}
+
+.list-screen-background {
+  background-color: #f5f4f4;
+}
+
+.homepage-width {
+  width: 70%;
+}
+
+.centered {
+  position: fixed; /* or absolute */
+  top: 30%;
+  left: 15%;
+}
+
+.background-img {
+  background-image: url("./components/HomePage/894615.jpg");
+}

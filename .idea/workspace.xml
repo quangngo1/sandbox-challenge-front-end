@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b129b888-0eb3-4899-9980-7b5148571908" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/GameDetail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GamesList/GamesListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GamesList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBar/ToggleLogInOrProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavBar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewGame/CreatePlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewGame/CreateRoundsData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewGame/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NewPlayer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PlayerDetail/GameStatsForPlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PlayerDetail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PlayersList/PlayersListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PlayersList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/game-services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/player-services.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22Q2FeVKjL4AOFlf1IQ6tFOdFb6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../webdev/web-dev" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\2021\fall\sandbox\sp2022-sandbox-challenge\src\Components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\2021\fall\sandbox\sp2022-sandbox-challenge\src\components\HomePage" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b129b888-0eb3-4899-9980-7b5148571908" name="Changes" comment="" />
+      <created>1639755387893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639755387893</updated>
+      <workItem from="1639755389595" duration="457000" />
+      <workItem from="1639844049511" duration="2556000" />
+      <workItem from="1639868067036" duration="4777000" />
+      <workItem from="1639920577501" duration="829000" />
+      <workItem from="1639950644440" duration="8585000" />
+      <workItem from="1639965389205" duration="2504000" />
+      <workItem from="1640012656095" duration="9310000" />
+      <workItem from="1640100265774" duration="5056000" />
+      <workItem from="1640188081868" duration="7656000" />
+      <workItem from="1640195816924" duration="1015000" />
+      <workItem from="1640219070686" duration="6287000" />
+      <workItem from="1640270909415" duration="2886000" />
+      <workItem from="1640355794362" duration="1057000" />
+      <workItem from="1640369544283" duration="5650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
