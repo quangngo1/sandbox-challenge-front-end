@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b129b888-0eb3-4899-9980-7b5148571908" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/GameDetail/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GamesList/GamesListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/GamesList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomePage/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavBar/ToggleLogInOrProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavBar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewGame/CreatePlayer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewGame/CreateRoundsData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewGame/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NewPlayer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlayerDetail/GameStatsForPlayer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlayerDetail/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlayersList/PlayersListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlayersList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/game-services.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/player-services.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="b129b888-0eb3-4899-9980-7b5148571908" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +30,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="22Q2FeVKjL4AOFlf1IQ6tFOdFb6" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -62,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -102,7 +79,7 @@
       <workItem from="1640219070686" duration="6287000" />
       <workItem from="1640270909415" duration="2886000" />
       <workItem from="1640355794362" duration="1057000" />
-      <workItem from="1640369544283" duration="5650000" />
+      <workItem from="1640369544283" duration="6013000" />
     </task>
     <servers />
   </component>
@@ -120,5 +97,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
