@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b129b888-0eb3-4899-9980-7b5148571908" name="Changes" comment="" />
+    <list default="true" id="b129b888-0eb3-4899-9980-7b5148571908" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp2022-webdev-frontend-challenge-quangngo1" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +83,7 @@
       <workItem from="1640219070686" duration="6287000" />
       <workItem from="1640270909415" duration="2886000" />
       <workItem from="1640355794362" duration="1057000" />
-      <workItem from="1640369544283" duration="6013000" />
+      <workItem from="1640369544283" duration="6903000" />
     </task>
     <servers />
   </component>
